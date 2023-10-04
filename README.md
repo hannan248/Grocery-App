@@ -1,6 +1,10 @@
 # grocery
+ Grocery app which is used to add daily life grocery with features like adding price,date,amount and type.
+ 
+## SCREENSHOT
 
-Grocery details app
+![](https://github.com/hannan248/Grocery-App/blob/master/GroceryApp.jpg?raw=true)
+
 
 ## Getting Started
 
